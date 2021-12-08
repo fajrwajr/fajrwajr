@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Fajr 👋</h1>
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
-  <img src="lofi.gif">
+   <h2>If you love <img src="marvel.png"> I already like you</h2>
+ <img src="lofi.gif">
 - 🔭 I’m currently working on a Rick and Morty project
 - 🌱 I’m currently learning everything
 - 📫 How to reach me: bookreaderfaj@gmail.com
