@@ -1,17 +1,5 @@
 <h1>Hi there, I'm Fajr 👋</h1>
-
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-            h2 {
-                margin-top: 20px;
-           }
-            </style>
-     <h2>If you love <img src="marvel.png" width="80" height="80"> I already like you.</h2>
-        </div>
-    </foreignObject>
-</svg>
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
   <img src="lofi.gif">
 - 🔭 I’m currently working on a Rick and Morty project
 - 🌱 I’m currently learning everything
