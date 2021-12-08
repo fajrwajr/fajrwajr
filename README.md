@@ -1,4 +1,5 @@
-### Hi there, I'm Fajr 👋
+<div style="color:pink">
+Hi there, I'm Fajr 👋
  
 <h1>If you love Marvel I already like you.</h1>
  <img src="lofi.gif">
@@ -24,3 +25,4 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
 </p>
+</div>
