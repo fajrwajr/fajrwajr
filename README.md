@@ -1,7 +1,6 @@
-<div style="color:pink">
-Hi there, I'm Fajr 👋
+###Hi there, I'm Fajr 👋
  
-<h1>If you love Marvel I already like you.</h1>
+<h1 style="color:pink">If you love Marvel I already like you.</h1>
  <img src="lofi.gif">
 - 🔭 I’m currently working on a Rick and Morty project
 - 🌱 I’m currently learning everything
