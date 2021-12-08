@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Fajr 👋</h1>
-   <h2>If you love <img src="marvel.png" width="40" height="40"/> I already like you</h2>
+   <h2>If you love <img src="marvel1.png" width="40" height="40"/> I already like you</h2>
  <img src="lofi.gif">
 - 🔭 I’m currently working on a Rick and Morty project
 - 🌱 I’m currently learning everything
